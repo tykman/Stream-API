@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SkyproSpringDemoSetHwApplication {
+public class SpringSetLibTestMock {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SkyproSpringDemoSetHwApplication.class, args);
+		SpringApplication.run(SpringSetLibTestMock.class, args);
 	}
 
 }

@@ -29,7 +29,7 @@ public  class EmployeeService {
 //        employees.add(new Employee("Зуля","Зулева",4444.5,3));
 //    }
 
-    private final static int MAX_SIZE=2;
+    private final static int MAX_SIZE = 1;
 
     public Employee add(String firstName, String lastName,double salary,Integer departmentId) {
 
